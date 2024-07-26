@@ -1,0 +1,7 @@
+C:\Users\jyoti\source\repos\loop formation\loop formation\bin\Debug\loop formation.exe.config
+C:\Users\jyoti\source\repos\loop formation\loop formation\bin\Debug\loop formation.exe
+C:\Users\jyoti\source\repos\loop formation\loop formation\bin\Debug\loop formation.pdb
+C:\Users\jyoti\source\repos\loop formation\loop formation\obj\Debug\loop formation.csproj.AssemblyReference.cache
+C:\Users\jyoti\source\repos\loop formation\loop formation\obj\Debug\loop formation.csproj.CoreCompileInputs.cache
+C:\Users\jyoti\source\repos\loop formation\loop formation\obj\Debug\loop formation.exe
+C:\Users\jyoti\source\repos\loop formation\loop formation\obj\Debug\loop formation.pdb
